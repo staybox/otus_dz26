@@ -41,6 +41,8 @@
 
 ![Image 4](https://raw.githubusercontent.com/staybox/otus_dz26/master/screenshots/slave2.png)
 
+- Используем утилиту ```mysqlbinlog```:
+
 ![Image 5](https://raw.githubusercontent.com/staybox/otus_dz26/master/screenshots/binlog.png)
 
 ### Как проверить:
